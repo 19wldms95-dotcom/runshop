@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import './App.css'
-import shoesImage from './assets/shoes.jpg'
+import shoesImage from './assets/shose.jpg'
 import Header from './components/Header.jsx'
 import ProductDetail from './components/ProductDetail.jsx'
 import Modal from './components/Modal.jsx'
